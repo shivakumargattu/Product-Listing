@@ -30,10 +30,19 @@ Users can search products, add them to a cart with quantity selection, and view 
 
 📸 Screenshots
 Product Listing Page
+<img width="583" height="394" alt="image" src="https://github.com/user-attachments/assets/d5446e6b-5e7b-40d8-8e5d-635f86393ff2" />
+<img width="507" height="765" alt="image" src="https://github.com/user-attachments/assets/b90e1117-3109-489d-8356-18aa07039405" />
+
 
 Showcase of product cards with image, title, and price.
 
+<img width="1858" height="700" alt="image" src="https://github.com/user-attachments/assets/5ef5367e-6d07-472c-b63f-a2f81d6b3937" />
+
+
 Cart Popup
+
+<img width="609" height="540" alt="image" src="https://github.com/user-attachments/assets/fc37c1eb-4110-481f-84e0-55e2377b6c99" />
+
 
 Displays added items with quantities.
 
