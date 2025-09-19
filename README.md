@@ -20,24 +20,6 @@ Users can search products, add them to a cart with quantity selection, and view 
 
 ---
 
-## 📂 Project Structure  
-
-product-listing/
-├── src/
-│ ├── components/
-│ │ ├── ProductCard.jsx
-│ │ ├── Cart.jsx
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── README.md
-
-
----
-
 ## 🛠️ Tech Stack  
 
 - **React** (Vite for bundling)  
@@ -55,17 +37,17 @@ Cart Popup
 
 Displays added items with quantities.
 
-✅ Requirements Checklist
+## Requirements Checklist
 
- Fetch data from dummy API
+✅ Fetch data from dummy API
 
- Display product cards (image, title, price)
+✅ Display product cards (image, title, price)
 
- Add search bar to filter products
+✅ Add search bar to filter products
 
- Responsive on desktop & mobile
+✅ Responsive on desktop & mobile
 
- Clean React code with components
+✅ Clean React code with components
 
- Tailwind CSS styling
+✅ Tailwind CSS styling
   
