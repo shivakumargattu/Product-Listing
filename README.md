@@ -32,7 +32,7 @@ Live Link:https://product-listing-gray.vercel.app/
 📸 Screenshots
 Product Listing Page
 <div>
-  <img width="583" height="394" alt="image" src="https://github.com/user-attachments/assets/d5446e6b-5e7b-40d8-8e5d-635f86393ff2" /> &&
+  <img width="583" height="394" alt="image" src="https://github.com/user-attachments/assets/d5446e6b-5e7b-40d8-8e5d-635f86393ff2" /> 
 <img width="507" height="765" alt="image" src="https://github.com/user-attachments/assets/b90e1117-3109-489d-8356-18aa07039405" />
 
 </div>
